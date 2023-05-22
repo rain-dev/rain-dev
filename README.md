@@ -23,6 +23,8 @@ Welcome to my page!
 <p>
     <img alt="Blockchain"
          src="https://img.shields.io/badge/-Blockchain-E34F26?style=flat-square&logo=blockchain&logoColor=white"/>
+    <img alt="Web3"
+         src="https://img.shields.io/badge/-Web3-E34F26?style=flat-square&logo=web3&logoColor=white"/>
     <img alt="Android"
          src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=android&logoColor=white"/>
     <img alt="Swift"
