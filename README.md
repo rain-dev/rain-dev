@@ -21,6 +21,8 @@ Welcome to my page!
 - Unity
 
 <p>
+    <img alt="Blockchain"
+         src="https://img.shields.io/badge/-Blockchain-E34F26?style=flat-square&logo=blockchain&logoColor=white"/>
     <img alt="Android"
          src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=android&logoColor=white"/>
     <img alt="Swift"
