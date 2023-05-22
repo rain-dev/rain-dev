@@ -23,6 +23,12 @@ Welcome to my page!
 <p>
     <img alt="Android"
          src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=android&logoColor=white"/>
+    <img alt="Swift"
+         src="https://img.shields.io/badge/-Swift-E34F26?style=flat-square&logo=swift&logoColor=white"/>
+    <img alt="React-Native"
+         src="https://img.shields.io/badge/-React-Native-E34F26?style=flat-square&logo=react-native&logoColor=white"/>
+    <img alt="Ionic"
+         src="https://img.shields.io/badge/-Ionic-E34F26?style=flat-square&logo=ionic&logoColor=white"/>
     <img alt="html5"
          src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="css3"
