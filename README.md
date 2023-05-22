@@ -21,6 +21,8 @@ Welcome to my page!
 - Unity
 
 <p>
+    <img alt="Android"
+         src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=android&logoColor=white"/>
     <img alt="html5"
          src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="css3"
