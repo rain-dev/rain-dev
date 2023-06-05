@@ -75,5 +75,5 @@ Welcome to my page!
 - Rust
 - Unity
 
-![Current stats](https://github-readme-stats.vercel.app/api?username=top6dev&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top6dev&theme=vue-dark)](https://github.com/top6dev)
+![Current stats](https://github-readme-stats.vercel.app/api?username=rain-dev&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain-dev&theme=vue-dark)](https://github.com/top6dev)
