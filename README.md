@@ -20,10 +20,14 @@ With more than 7 years of experience in mobile and website development, I stand 
 - Unity
 
 <p>
-    <img alt="Blockchain"
-         src="https://img.shields.io/badge/-Blockchain-E34F26?style=flat-square&logo=blockchain&logoColor=white"/>
-    <img alt="Web3"
-         src="https://img.shields.io/badge/-Web3-E34F26?style=flat-square&logo=web3&logoColor=white"/>
+    <img alt="React"
+         src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img alt="Vue.js"
+         src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img alt="angular"
+         src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
+    <img alt="next.js"
+         src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img alt="Android"
          src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=android&logoColor=white"/>
     <img alt="Swift"
@@ -54,14 +58,6 @@ With more than 7 years of experience in mobile and website development, I stand 
          src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img alt="mongodb"
          src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-    <img alt="React"
-         src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    <img alt="Vue.js"
-         src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img alt="angular"
-         src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
-    <img alt="next.js"
-         src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
 ### 💻 Languages, Frameworks, Tools
