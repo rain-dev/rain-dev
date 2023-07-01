@@ -47,12 +47,6 @@ With more than 7 years of experience in mobile and website development, I stand 
 - Godot
 
 ### 📈 GitHub Stats 
-
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=rain-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain-dev&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-dev&theme=blue-green">
-
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rain-dev&theme=onedark" alt="rain-dev" /></a> </p>
