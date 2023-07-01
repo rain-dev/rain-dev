@@ -1,4 +1,4 @@
-##Welcome to my page!👋
+## Welcome to my page!👋
 
 With more than 7 years of experience in mobile and website development, I stand strong on CMS platforms such as NEOS and Symfony. My skills include proficiency in JavaScript, TypeScript, Java, Python, Dart, C#, PHP HTML, CSS, SCSS and SQL. I possess exceptional problem-solving and analytical capabilities and have successfully delivered complex projects on-time and within budget.
 
