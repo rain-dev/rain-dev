@@ -2,18 +2,17 @@
 
 Welcome to my page!
 
-I am a senior software developer having more than 8 years of experience in full-stack development.
-I already have experience working on a Saas platform, E-commerce, Dynamic website, One-pager, WordPress, architecting small to enterprise-level applications and Mobile application. I can create different test plans and test cases adapting to different kinds of projects..
+With more than 7 years of experience in mobile and website development, I stand strong on CMS platforms such as NEOS and Symfony. My skills include proficiency in JavaScript, TypeScript, Java, Python, Dart, C#, PHP HTML, CSS, SCSS and SQL. I possess exceptional problem-solving and analytical capabilities and have successfully delivered complex projects on-time and within budget.
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ##**Skills:**
-- BlockChain/web3
-- React Native, Ionic and Flutter
-- Swift and Java/Kotlin
+- BlockChain / web3
+- React Native and Flutter
+- Swift and Java / Kotlin
 - NodeJs Framework
 - PHP Framwork
-- Javascript
+- Javascript / TypeScript
 - Python
 - Django
 - RESTful APIs and web services
@@ -100,13 +99,13 @@ I already have experience working on a Saas platform, E-commerce, Dynamic websit
 </p>
 ### 💬Contact Me
 
-- Gmail: precious6world@gmail.com
+- Gmail: seniordev1207@gmail.com
 
 ### 🌱 I’m currently learning
 
 - Spring Cloud
 - Rust
-- Unity
+- Godot
 
 ### 📈 GitHub Stats 
 
