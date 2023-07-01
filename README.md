@@ -5,14 +5,13 @@ With more than 7 years of experience in mobile and website development, I stand 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ##**Skills:**
-- BlockChain / web3
+- React, Vue, Next.js, Nuxt.js, Angular
 - React Native and Flutter
 - Swift and Java / Kotlin
 - NodeJs Framework
 - PHP Framwork
 - Javascript / TypeScript
-- Python
-- Django
+- Python / Django
 - RESTful APIs and web services
 - Firebase and AWS
 - Agile methodologies
