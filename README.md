@@ -46,9 +46,8 @@ With over 7 years of experience in mobile and web development, I'm a pro in CMS 
 - Rust
 - Godot
 </p>
-<p align="right">
+
 ### 📈 GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slytherin-dev&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
