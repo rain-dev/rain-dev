@@ -34,8 +34,7 @@ With over 7 years of experience in mobile and web development, I'm a pro in CMS 
 <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
-
-<p align="left">
+<p>
 ### 💬Contact Me
 
 - Gmail: seniordev1207@gmail.com
@@ -45,9 +44,8 @@ With over 7 years of experience in mobile and web development, I'm a pro in CMS 
 - Spring Cloud
 - Rust
 - Godot
-</p>
-
 ### 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slytherin-dev&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venture1981&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+</p>
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
